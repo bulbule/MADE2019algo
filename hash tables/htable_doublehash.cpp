@@ -64,8 +64,7 @@ class HashTable {
         // coeff1 must be coprime with table size
         const int coeff1 = 11;
         int hash = 0;
-        size_t size = str.size();
-        for (int i = 0; i < size; ++i) {
+        for (int i = 0; i < str.size(); ++i) {
             hash = (hash * coeff1 + str[i]) % container_size;
         }
         return hash;
@@ -75,8 +74,7 @@ class HashTable {
         // coeff2 must be coprime with table size
         const int coeff2 = 131;
         int hash = 0;
-        size_t size = str.size();
-        for (int i = 0; i < size; ++i) {
+        for (int i = 0; i < str.size(); ++i) {
             hash = (hash * coeff2 + str[i]) % container_size;
         }
         return (2 * hash + 1) % container_size;
