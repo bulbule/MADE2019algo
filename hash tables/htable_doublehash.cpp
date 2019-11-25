@@ -49,7 +49,6 @@ class HashTable {
      bool has(const std::string key);
      bool add(const std::string key);
      bool remove(const std::string key);
-     void print() const;
 
     private:
      const int default_size = 8;
