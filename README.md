@@ -1,4 +1,5 @@
 # MADE2019algo
 Course on algorithms and data structures, C++
 
-Homework on hashtables for strings with double hashing.
+1. hashtables for strings with double hashing.
+2. Huffman encoding
