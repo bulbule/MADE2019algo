@@ -1,0 +1,152 @@
+Size = 9, runs = 50
+seed = 1, nrun = 0
+[Error: 63.46%] exact: 9.02, approx.: 14.7
+
+seed = 2, nrun = 1
+[Error: 41.19%] exact: 8.98, approx.: 12.7
+
+seed = 3, nrun = 2
+[Error: 67.19%] exact: 8.91, approx.: 14.9
+
+seed = 4, nrun = 3
+[Error: 35.1%] exact: 8.14, approx.: 11
+
+seed = 5, nrun = 4
+[Error: 36.37%] exact: 11.8, approx.: 16.1
+
+seed = 6, nrun = 5
+[Error: 51.65%] exact: 6.72, approx.: 10.2
+
+seed = 7, nrun = 6
+[Error: 36.01%] exact: 7.38, approx.: 10
+
+seed = 8, nrun = 7
+[Error: 34.16%] exact: 12.5, approx.: 16.8
+
+seed = 9, nrun = 8
+[Error: 81.77%] exact: 9.45, approx.: 17.2
+
+seed = 10, nrun = 9
+[Error: 48.1%] exact: 8.3, approx.: 12.3
+
+seed = 11, nrun = 10
+[Error: 37.12%] exact: 8.02, approx.: 11
+
+seed = 12, nrun = 11
+[Error: 73.68%] exact: 8.57, approx.: 14.9
+
+seed = 13, nrun = 12
+[Error: 3.069%] exact: 10, approx.: 10.3
+
+seed = 14, nrun = 13
+[Error: 81.5%] exact: 7.94, approx.: 14.4
+
+seed = 15, nrun = 14
+[Error: 94.1%] exact: 9.49, approx.: 18.4
+
+seed = 16, nrun = 15
+[Error: 59.02%] exact: 6.57, approx.: 10.5
+
+seed = 17, nrun = 16
+[Error: 64.91%] exact: 9.92, approx.: 16.4
+
+seed = 18, nrun = 17
+[Error: 21.27%] exact: 11.6, approx.: 14
+
+seed = 19, nrun = 18
+[Error: 84.44%] exact: 7.86, approx.: 14.5
+
+seed = 20, nrun = 19
+[Error: 56.48%] exact: 11.5, approx.: 18
+
+seed = 21, nrun = 20
+[Error: 43.46%] exact: 7.69, approx.: 11
+
+seed = 22, nrun = 21
+[Error: 23.12%] exact: 11.4, approx.: 14
+
+seed = 23, nrun = 22
+[Error: 50.07%] exact: 7.75, approx.: 11.6
+
+seed = 24, nrun = 23
+[Error: 37.93%] exact: 10.1, approx.: 14
+
+seed = 25, nrun = 24
+[Error: 39.75%] exact: 10.1, approx.: 14.1
+
+seed = 26, nrun = 25
+[Error: 35.54%] exact: 8.83, approx.: 12
+
+seed = 27, nrun = 26
+[Error: 46.94%] exact: 8.73, approx.: 12.8
+
+seed = 28, nrun = 27
+[Error: 22.83%] exact: 9.06, approx.: 11.1
+
+seed = 29, nrun = 28
+[Error: 23.87%] exact: 9.56, approx.: 11.8
+
+seed = 30, nrun = 29
+[Error: 43.96%] exact: 8.41, approx.: 12.1
+
+seed = 31, nrun = 30
+[Error: 48.3%] exact: 11.3, approx.: 16.8
+
+seed = 32, nrun = 31
+[Error: 98.1%] exact: 5.03, approx.: 9.96
+
+seed = 33, nrun = 32
+[Error: 16.89%] exact: 9.34, approx.: 10.9
+
+seed = 34, nrun = 33
+[Error: 11.65%] exact: 8.45, approx.: 9.43
+
+seed = 35, nrun = 34
+[Error: 73.97%] exact: 6.59, approx.: 11.5
+
+seed = 36, nrun = 35
+[Error: 29.78%] exact: 10.2, approx.: 13.3
+
+seed = 37, nrun = 36
+[Error: 51.76%] exact: 8.58, approx.: 13
+
+seed = 38, nrun = 37
+[Error: 40.35%] exact: 9.36, approx.: 13.1
+
+seed = 39, nrun = 38
+[Error: 52.72%] exact: 9.64, approx.: 14.7
+
+seed = 40, nrun = 39
+[Error: 27.5%] exact: 10.5, approx.: 13.4
+
+seed = 41, nrun = 40
+[Error: 65.39%] exact: 9.37, approx.: 15.5
+
+seed = 42, nrun = 41
+[Error: 31.42%] exact: 8.96, approx.: 11.8
+
+seed = 43, nrun = 42
+[Error: 46.12%] exact: 6.75, approx.: 9.86
+
+seed = 44, nrun = 43
+[Error: 70.51%] exact: 8.52, approx.: 14.5
+
+seed = 45, nrun = 44
+[Error: 42.32%] exact: 7.1, approx.: 10.1
+
+seed = 46, nrun = 45
+[Error: 42.1%] exact: 9.1, approx.: 12.9
+
+seed = 47, nrun = 46
+[Error: 20.97%] exact: 5.5, approx.: 6.65
+
+seed = 48, nrun = 47
+[Error: 45.06%] exact: 8.34, approx.: 12.1
+
+seed = 49, nrun = 48
+[Error: 16.85%] exact: 9.94, approx.: 11.6
+
+seed = 50, nrun = 49
+[Error: 57.16%] exact: 7.64, approx.: 12
+
+Average error: 46.5%, standard deviation: 21.2%

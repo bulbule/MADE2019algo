@@ -1,0 +1,14 @@
+Size = 4, runs = 50
+Average error: 12%, standard deviation: 17.3%
+Size = 5, runs = 50
+Average error: 21.1%, standard deviation: 17%
+Size = 6, runs = 50
+Average error: 28%, standard deviation: 16.5%
+Size = 7, runs = 50
+Average error: 34.9%, standard deviation: 20%
+Size = 8, runs = 50
+Average error: 41.3%, standard deviation: 22%
+Size = 9, runs = 50
+Average error: 46.5%, standard deviation: 21.2%
+Size = 10, runs = 50
+Average error: 52.6%, standard deviation: 23.2%
